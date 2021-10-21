@@ -1,2 +1,2 @@
 # cmse822project
-My final project for a parallel computing class.
+Final project for a parallel computing class. By Liping Yin and Albert Chua.
