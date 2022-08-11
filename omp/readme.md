@@ -1,1 +1,1 @@
-C++ combined with openmp
+MPI combined with openmp method.
